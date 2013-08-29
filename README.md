@@ -16,8 +16,7 @@ A console program that reads two PNG images and finds the angle one picture is r
 How to build
 ------------
 
-The program requires two external libraries: `zlib` and `libpng` - both for reading the pictures.
-Wymagane sa dwie biblioteki zewnetrzne: zlib oraz libpng (obie wymagane do wczytania obrazu). Makefile for MinGW is provided.
+The program requires two external libraries: `zlib` and `libpng` - both for reading the pictures. Makefile for MinGW is provided.
 
 Program is tested on Visual C++ 2012 and GCC 4.7.1.
 
